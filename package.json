@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aswinr/urlshortener/issues"
   },
-  "homepage": "https://github.com/aswinr/urlshortener#readme"
+  "homepage": "https://github.com/aswinr/urlshortener#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
